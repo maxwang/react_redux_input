@@ -1,2 +1,2 @@
-react template, include
+react redux demo, include
 babel, webpack
